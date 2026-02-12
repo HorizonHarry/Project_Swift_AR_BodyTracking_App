@@ -1,14 +1,19 @@
 # BodyTracking
 
-A high-performance ARKit-powered diagnostic engine architected to orchestrate real-time human motion tracking and 3D skeletal mapping with sub-millisecond latency.
+A performance-focused ARKit-powered diagnostic engine architected to orchestrate real-time human motion tracking and 3D skeletal mapping with sub-millisecond latency.
 While the current version utilizes ARKit for spatial body anchors, I am currently researching and implementing a migration to the Vision Framework (VNDetectHumanBodyPoseRequest).Key Advantage upon improving onto Vision framework is that it will allow the engine to function on devices without LIDAR or advanced AR motion sensors, widening the potential user base.
 
 The application is a functional portfolio piece designed for technical demonstration and biomechanical research.
 
 Here's some previews:
 
-![alt text](ReadMeAssets/08B0AAD5-92DA-43EF-B623-BC194021C58F.JPG)
-![alt text](ReadMeAssets/BodyTracking_Preview.gif)
+<img src="/ReadMeAssets/08B0AAD5-92DA-43EF-B623-BC194021C58F.JPG" width="250" />
+<img src="/ReadMeAssets/BodyTracking_Preview.gif" width="250" />
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)
+![iOS](https://img.shields.io/badge/iOS-17.0+-black.svg)
+![Xcode](https://img.shields.io/badge/Xcode-15.x-blue.svg)
 
 ## Features
 
