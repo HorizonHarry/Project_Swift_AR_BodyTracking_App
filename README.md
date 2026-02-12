@@ -5,6 +5,11 @@ While the current version utilizes ARKit for spatial body anchors, I am currentl
 
 The application is a functional portfolio piece designed for technical demonstration and biomechanical research.
 
+Here's some previews:
+
+![alt text](ReadMeAssets/08B0AAD5-92DA-43EF-B623-BC194021C58F.JPG)
+![alt text](ReadMeAssets/BodyTracking_Preview.gif)
+
 ## Features
 
 * **Dynamic 3D Skeletal Reconstruction:** Orchestrates real-time body tracking using **ARBodyTrackingConfiguration**, mapping 90+ joints with high-fidelity spatial accuracy.
